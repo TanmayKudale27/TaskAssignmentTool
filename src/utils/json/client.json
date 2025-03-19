@@ -1,0 +1,166 @@
+{
+  "clients": [
+    {
+      "client_name": "Amit Sharma",
+      "client_profile":"https://i.pinimg.com/736x/df/46/fa/df46facd49362d3965872a3d643e095b.jpg",
+      "product_category": "Web Development",
+      "tasks": [
+        {
+          "description": "Developing an e-commerce website",
+          "duration": "3 months",
+          "taskStatus": "In Progress",
+          "payment_details": {
+            "amount": 200000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        },
+        {
+          "description": "Website SEO optimization",
+          "duration": "1 month",
+          "taskStatus": "Not Started",
+          "payment_details": {
+            "amount": 50000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        }
+      ]
+    },
+    {
+      "client_name": "Priya Kulkarni",
+      "client_profile":"https://i.pinimg.com/736x/93/79/d2/9379d261dfd39d582b0dc96a09f8a324.jpg",
+      "product_category": "Mobile App Development",
+      "tasks": [
+        {
+          "description": "Building a food delivery app",
+          "duration": "4 months",
+          "taskStatus": "In Progress",
+          "payment_details": {
+            "amount": 350000,
+            "currency": "INR",
+            "status": "Paid"
+          }
+        },
+        {
+          "description": "Adding payment gateway integration",
+          "duration": "3 weeks",
+          "taskStatus": "Completed",
+          "payment_details": {
+            "amount": 75000,
+            "currency": "INR",
+            "status": "Paid"
+          }
+        }
+      ]
+    },
+    {
+      "client_name": "Global Solutions",
+      "client_profile":"https://i.pinimg.com/736x/af/d4/70/afd470682a04b56ffd57db66e36b3103.jpg",
+      "product_category": "Digital Marketing",
+      "tasks": [
+        {
+          "description": "SEO optimization for multiple platforms",
+          "duration": "2 months",
+          "taskStatus": "In Progress",
+          "payment_details": {
+            "amount": 120000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        },
+        {
+          "description": "Social media marketing campaign",
+          "duration": "6 weeks",
+          "taskStatus": "Not Started",
+          "payment_details": {
+            "amount": 100000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        }
+      ]
+    },
+    {
+      "client_name": "Ravi Malhotra",
+      "client_profile":"https://i.pinimg.com/736x/43/36/10/43361006825aaec0ba49834a6100ad46.jpg",
+      "product_category": "Software Testing",
+      "tasks": [
+        {
+          "description": "Functional testing of a mobile app",
+          "duration": "1 month",
+          "taskStatus": "Completed",
+          "payment_details": {
+            "amount": 80000,
+            "currency": "INR",
+            "status": "Paid"
+          }
+        },
+        {
+          "description": "Performance testing for a web application",
+          "duration": "2 months",
+          "taskStatus": "In Progress",
+          "payment_details": {
+            "amount": 150000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        }
+      ]
+    },
+    {
+      "client_name": "Sakshi Deshpande",
+      "client_profile":"https://i.pinimg.com/736x/34/54/ca/3454cafdbfd2912f32e1571b4fec5503.jpg",
+      "product_category": "Web Development",
+      "tasks": [
+        {
+          "description": "Developing a portfolio website",
+          "duration": "1 month",
+          "taskStatus": "Completed",
+          "payment_details": {
+            "amount": 1000,
+            "currency": "USD",
+            "status": "Paid"
+          }
+        },
+        {
+          "description": "Website hosting setup",
+          "duration": "1 week",
+          "taskStatus": "Completed",
+          "payment_details": {
+            "amount": 200,
+            "currency": "USD",
+            "status": "Paid"
+          }
+        }
+      ]
+    },
+    {
+      "client_name": "Techno Hub Pvt Ltd",
+      "client_profile":"https://i.pinimg.com/736x/70/0e/c2/700ec23523e23df5ed7c2a6a2909a686.jpg",
+      "product_category": "Data Science",
+      "tasks": [
+        {
+          "description": "Creating predictive models for sales data",
+          "duration": "3 months",
+          "taskStatus": "In Progress",
+          "payment_details": {
+            "amount": 400000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        },
+        {
+          "description": "Data visualization and reporting",
+          "duration": "6 weeks",
+          "taskStatus": "Not Started",
+          "payment_details": {
+            "amount": 150000,
+            "currency": "INR",
+            "status": "Pending"
+          }
+        }
+      ]
+    }
+  ]
+}
