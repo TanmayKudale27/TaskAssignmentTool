@@ -10,7 +10,7 @@ function App() {
   const [loggedUserData, setLoggedUserData] = useState(null);
   const [loggedAdminData, setLoggedAdminData] = useState(null);
   useEffect(() => {
-    // setLocalData();
+    setLocalData();
     setAuthData(getLocalData());
   }, []);
 
